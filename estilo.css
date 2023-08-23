@@ -36,15 +36,15 @@ html, body {
     width: 45%;
     flex-direction: column;
     align-items: right;
-    margin-top: 3em;
-    margin-left: 6em;
+    margin-top: 9em;
+    margin-left: 8em;
 }
 
 .titulo {
     font-family: var(--fonte--principal);
     color: var(--preto);
     font-weight: 700;
-    font-size: 26px;
+    font-size: 34px;
     margin-top: 0;
 }
 
@@ -52,7 +52,7 @@ html, body {
     color: var(--preto);
     font-family: var(--fonte--principal);
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 0;
 }
 
@@ -64,7 +64,7 @@ html, body {
 
 .input__texto {
     font-family: var(--fonte--secundaria);
-    font-size: 12px;
+    font-size: 14px;
     color: var(--preto);
     font-weight: 400;
     padding: 0.5em 0;
@@ -72,7 +72,7 @@ html, body {
 
 .input__caixa {
     max-width: 80%;
-    height: 2em;
+    height: 3em;
     border-radius: 5px;
     border: 1.5px solid var(--cor--fundo);
 }
@@ -86,7 +86,7 @@ html, body {
 .ancora__comum {
     color: var(--preto);
     font-family: var(--fonte--secundaria);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400;
     text-decoration: none;
 }
@@ -95,9 +95,9 @@ html, body {
     color: var(--cor--principal);
     font-family: var(--fonte--secundaria);
     text-decoration: none;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 700;
-    padding-left: 7.5em;
+    padding-left: 14em;
 }
 
 .botoes {
@@ -111,7 +111,7 @@ html, body {
     background-color: var(--cor--principal);
     border: 1.5px solid var(--cor--principal);
     color: var(--cor--fundo);
-    height: 3em;
+    height: 4em;
     margin-bottom: 1em;
     border-radius: 5px;
 }
@@ -120,7 +120,7 @@ html, body {
     background-color: var(--preto);
     border: 1.5px solid var(--preto);
     color: var(--cor--fundo);
-    height: 3em;
+    height: 4em;
     border-radius: 5px;
 }
 
@@ -138,15 +138,15 @@ html, body {
 .footer__texto {
     color: var(--preto);
     font-family: var(--fonte--secundaria);
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .footer__ancora {
     text-decoration: none;
     font-family: var(--fonte--secundaria);
     color: var(--cor--principal);
-    font-size: 14px;
-    margin-top: 0.9em;
+    font-size: 16px;
+    margin-top: 1em;
     font-weight: 700;
 }
 
